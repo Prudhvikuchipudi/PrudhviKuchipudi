@@ -1,0 +1,23 @@
+.botText{
+	position: absolute;
+	top: 80%;
+	left: 10%;
+}
+.Tvpos{
+	position: absolute;
+	text-align:center;
+	right: 5%;
+	top: 25%;
+	width: 90;
+}
+.Kidspos{
+	position: absolute;
+	text-align:center;
+	right: 5%;
+	top: 5%;
+	width: 90;
+}
+
+body {
+    background-color: #007bff;
+}
